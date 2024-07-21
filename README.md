@@ -27,24 +27,24 @@
         <table style="width: 100%; max-width: 600px; margin: 0 auto; text-align: center;">
           <tr>
             <td style="text-align: center; vertical-align: middle;">
-              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons-n/Frame%205bash-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Bash"/>
+              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%205bash-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Bash"/>
             </td>
             <td style="text-align: center; vertical-align: middle;">
-              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons-n/Frame%201linux-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Linux"/>
+              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%201linux-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Linux"/>
             </td>
             <td style="text-align: center; vertical-align: middle;">
-              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons-n/Frame%202python-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Python"/>
+              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%202python-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Python"/>
             </td>
           </tr>
           <tr>
             <td style="text-align: center; vertical-align: middle;">
-              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons-n/Frame%204c99-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="C"/>
+              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%204c99-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="C"/>
             </td>
             <td style="text-align: center; vertical-align: middle;">
-              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons-n/Frame%206vscode-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="VSCode"/>
+              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%206vscode-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="VSCode"/>
             </td>
             <td style="text-align: center; vertical-align: middle;">
-              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons-n/Frame%203java-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Java"/>
+              <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%203java-n.svg" height="85" style="margin: 10px; transition: transform 0.3s ease-in-out;" alt="Java"/>
             </td>
           </tr>
         </table>
