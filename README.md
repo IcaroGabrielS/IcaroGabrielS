@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=SOURCE+CODE+PRO&pause=1000&color=2AFF12&width=435&lines=COMPUTER+SCIENCE+STUDENT+%F0%9F%93%8D+BR" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=35&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=COMPUTER+SCIENCE+STUDENT+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </div>
 
 <div align="center" style="max-width: 800px; margin: 40px auto; text-align: center; background: linear-gradient(to right, #e0eafc, #cfdef3); padding: 30px; border-radius: 15px; box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);">
