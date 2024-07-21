@@ -59,6 +59,7 @@
       <td>
         <h3>👋 Hello! I'm Ícaro</h3>
         <p>I am a passionate technology student currently pursuing a Bachelor's degree in Computer Science at the Federal University of Campina Grande. I am always seeking new challenges and learning opportunities.</p>
+        <p></p>
       </td>
     </tr>
     <tr>
@@ -68,6 +69,7 @@
           <li><strong>Federal University of Campina Grande</strong></li>
           <li>Bachelor's degree in Computer Science - in progress...</li>
         </ul>
+        <p></p>
       </td>
     </tr>
     <tr>
