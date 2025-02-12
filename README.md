@@ -13,7 +13,7 @@
     Federal University of Campina Grande.
   </p>
   <p style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; font-size: 18px; color: #555; margin: 10px 0; line-height: 1.6;">
-    <em>Currently learning Java (OOP).</em>
+    <em>Currently learning Data Structures & Algorithms.</em>
   </p>
 </div>
 
