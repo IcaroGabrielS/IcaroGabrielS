@@ -14,12 +14,10 @@
 <div align="center">
   <h3 style="font-family:Segoe UI, Tahoma, Geneva, Verdana, sans-serif; color:#333; font-size:1.8em;">⚙️ Technologies I Use</h3>
   <div style="margin: 20px auto;">
-    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%205bash-n.svg" height="70" alt="Bash" style="margin: 10px;" />
-    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%201linux-n.svg" height="70" alt="Linux" style="margin: 10px;" />
+    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%201fastapi-n.svg" height="70" alt="FastApi" style="margin: 10px;" />
     <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%202python-n.svg" height="70" alt="Python" style="margin: 10px;" />
-    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%204c99-n.svg" height="70" alt="C" style="margin: 10px;" />
-    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%206vscode-n.svg" height="70" alt="VSCode" style="margin: 10px;" />
-    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%203java-n.svg" height="70" alt="Java" style="margin: 10px;" />
+    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%203vue-n.svg" height="70" alt="Vue" style="margin: 10px;" />
+    <img src="https://github.com/IcaroGabrielS/IcaroGabrielS/blob/main/icons/Frame%204bash-n.svg" height="70" alt="Bash" style="margin: 10px;" />
   </div>
 </div>
 
